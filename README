@@ -2,82 +2,70 @@
 
 ## 🚀 Software Engineer | AI Builder | Full-Stack Developer
 
-I build intelligent systems that solve real-world problems using code, AI, and automation.
-My focus is on creating scalable platforms across education, transport systems, communication tools, and creative AI.
+I build intelligent, highly automated systems that solve real-world problems. My focus is on architecture, data integrity, and creating scalable digital solutions across education, transport, communication tools, and automated media pipelines.
 
 ---
 
 ## 🧠 What I Do
 
-* 🧩 Full-Stack Web Development (PHP, Laravel, JavaScript, MySQL)
-* 🤖 AI Systems & Automation (Chatbots, LPR, smart assistants)
-* 📷 Computer Vision (License Plate Recognition systems)
-* 🎓 Educational Platforms (AI-powered learning tools)
-* 📡 Backend Architecture & API Development
-* ⚙️ System Design & Workflow Automation
+* **Full-Stack Web Development:** Building robust applications using PHP, Laravel, React.js, and JavaScript.
+* **AI Systems & Automation:** Engineering modular automation pipelines, smart assistants, and API-driven workflows.
+* **Computer Vision:** Developing practical vision solutions like License Plate Recognition (LPR) systems.
+* **Backend Architecture & API Design:** Creating high-performance, structured backends using Laravel and FastAPI.
+* **System Design & Optimization:** Translating complex business logic into clean, predictable software structures.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-PHP • JavaScript • Python • SQL • HTML • CSS
+### 💻 Languages & Frameworks
+* **Languages:** PHP • JavaScript • Python • SQL • HTML5 • CSS3
+* **Backend:** Laravel • FastAPI • Node.js
+* **Frontend:** React.js • Vue.js • Alpine.js • Tailwind CSS
 
-**Frameworks & Tools:**
-Laravel • Vue.js • Alpine.js • Node.js
+### 🤖 AI, Computer Vision & Data
+* **Vision & ML:** OpenCV • Basic Machine Learning Integration
+* **APIs & Models:** Google AI Studio (Gemini API) • OpenRouter • REST APIs
+* **Databases:** MySQL • SQLite • PostgreSQL
 
-**AI / Data:**
-OpenCV • Basic ML integrations • API-based AI systems
-
-**Databases:**
-MySQL • SQLite
-
-**Other Tools:**
-Git • GitHub • REST APIs • Linux • Figma
+### ⚙️ Tools & Infrastructure
+* **Workflow:** Git • GitHub • Linux • Cursor • Figma
+* **Deployment:** Vercel • Netlify
 
 ---
 
 ## 💡 Featured Projects
 
 ### 🚗 Vehicle Registration & LPR System
-
-A full-stack system for vehicle registration, tracking, and license plate recognition optimized for Zimbabwean plates.
+A full-stack solution for vehicle registration, tracking, and License Plate Recognition (LPR) optimized specifically for Zimbabwean plates using computer vision.
 
 ### 🎓 AI Counselling Management System
-
-A secure university counselling platform with chat, AI diagnostics, anonymity features, and real-time communication.
+A secure, anonymous university counselling platform integrating real-time communication tools, secure routing, and AI-assisted diagnostics.
 
 ### 📱 WhatsApp Enrollment Chatbot
+An automated student enrollment system integrated with backend validation, instant document processing, and system verification.
 
-Automated student enrollment system integrated with backend validation and document processing.
-
-### 🎵 AI Music Learning Platform
-
-An interactive system designed to teach music using AI-powered tools and gamified learning experiences.
-
-### 🎬 YouTube Automation System
-
-A content automation pipeline for clipping, scheduling, and managing video content workflows.
+### 🎬 Automated Content Pipeline
+A scalable SaaS-quality video automation pipeline designed for clip detection, editing workflows, and automated scheduling/uploading.
 
 ---
 
-## 📊 GitHub Goals
+## 📊 Engineering Goals
 
-* Build scalable AI-powered systems
-* Contribute to open-source projects
-* Improve system design & architecture skills
-* Launch production-ready SaaS platforms
+* 🧩 **Architecture First:** Continually refining system design patterns, clean architecture views, and software ontology.
+* 🚀 **SaaS Deployment:** Launching and managing high-availability, production-ready SaaS platforms.
+* 🤖 **Next-Gen Automation:** Advancing the intersection of algorithmic workflows and conversational AI.
 
 ---
 
 ## 📫 Contact
 
-* Email: ebubechiezugwu@gmail.com
-* Location: Harare, Zimbabwe
-* Available for collaboration and opportunities
+* 📩 **Email:** ebubechiezugwu@gmail.com
+* 📍 **Location:** Mutare, Zimbabwe
+* 🤝 *Open for collaboration, innovative development teams, and technical opportunities.*
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy turning ideas into working systems — especially when they combine AI, automation, and real-world impact.
+I specialize in building systems that replace repetitive tasks—including algorithmic trading configurations and automated content pipelines. If it can be automated, I'm probably building a bot for it.
