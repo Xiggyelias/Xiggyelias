@@ -1,71 +1,129 @@
-# 👋 Hi, I'm Emmanuel Ezugwu (Xiggyelias)
+# 👋 Hi, I'm Ebubechi Emmanuel Ezugwu
 
-## 🚀 Software Engineer | AI Builder | Full-Stack Developer
+**Software Engineer | Backend Developer | AI & Automation Engineer**
 
-I build intelligent, highly automated systems that solve real-world problems. My focus is on architecture, data integrity, and creating scalable digital solutions across education, transport, communication tools, and automated media pipelines.
+I am a Computer Science student (BSc, Expected 2027) focused on building scalable backend systems, APIs, and AI-powered automation tools.
 
----
-
-## 🧠 What I Do
-
-* **Full-Stack Web Development:** Building robust applications using PHP, Laravel, React.js, and JavaScript.
-* **AI Systems & Automation:** Engineering modular automation pipelines, smart assistants, and API-driven workflows.
-* **Computer Vision:** Developing practical vision solutions like License Plate Recognition (LPR) systems.
-* **Backend Architecture & API Design:** Creating high-performance, structured backends using Laravel and FastAPI.
-* **System Design & Optimization:** Translating complex business logic into clean, predictable software structures.
+I specialize in turning complex requirements into clean, modular, production-ready systems. I am currently seeking an **industrial attachment or internship opportunity** where I can contribute to real engineering teams, improve system reliability, and build production-grade software.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Languages & Frameworks
-* **Languages:** PHP • JavaScript • Python • SQL • HTML5 • CSS3
-* **Backend:** Laravel • FastAPI • Node.js
-* **Frontend:** React.js • Vue.js • Alpine.js • Tailwind CSS
+**Backend & APIs**
 
-### 🤖 AI, Computer Vision & Data
-* **Vision & ML:** OpenCV • Basic Machine Learning Integration
-* **APIs & Models:** Google AI Studio (Gemini API) • OpenRouter • REST APIs
-* **Databases:** MySQL • SQLite • PostgreSQL
+* PHP (Laravel)
+* Python (FastAPI)
+* Node.js
+* RESTful API Design
+* Authentication & System Security
 
-### ⚙️ Tools & Infrastructure
-* **Workflow:** Git • GitHub • Linux • Cursor • Figma
-* **Deployment:** Vercel • Netlify
+**Frontend**
+
+* JavaScript (ES6+)
+* React.js
+* Vue.js
+* Alpine.js
+* TailwindCSS
+
+**Databases & Infrastructure**
+
+* MySQL
+* SQLite
+* Linux (Ubuntu)
+* Git & GitHub
+* Deployment: Vercel, Netlify
+
+**AI & Automation**
+
+* OpenCV (Computer Vision)
+* API-based AI integrations
+* Workflow automation systems
+* Google AI Studio / LLM integrations
+
+**Engineering Practices**
+
+* System Design (modular architecture)
+* Debugging & optimization
+* Version control (Git workflows)
+* Clean code principles
 
 ---
 
-## 💡 Featured Projects
+## 🚀 Selected Projects
 
-### 🚗 Vehicle Registration & LPR System
-A full-stack solution for vehicle registration, tracking, and License Plate Recognition (LPR) optimized specifically for Zimbabwean plates using computer vision.
+### 🎬 Automated Content Pipeline System
 
-### 🎓 AI Counselling Management System
-A secure, anonymous university counselling platform integrating real-time communication tools, secure routing, and AI-assisted diagnostics.
+A modular backend system for automating video content workflows.
 
-### 📱 WhatsApp Enrollment Chatbot
-An automated student enrollment system integrated with backend validation, instant document processing, and system verification.
-
-### 🎬 Automated Content Pipeline
-A scalable SaaS-quality video automation pipeline designed for clip detection, editing workflows, and automated scheduling/uploading.
+* Built API-driven architecture for video processing pipelines
+* Automated content scheduling and upload workflows
+* Reduced manual processing through system-level automation
+* Designed for scalability and modular extension
 
 ---
 
-## 📊 Engineering Goals
+### 🚗 Vehicle Registration & License Plate Recognition System
 
-* 🧩 **Architecture First:** Continually refining system design patterns, clean architecture views, and software ontology.
-* 🚀 **SaaS Deployment:** Launching and managing high-availability, production-ready SaaS platforms.
-* 🤖 **Next-Gen Automation:** Advancing the intersection of algorithmic workflows and conversational AI.
+Full-stack system combining web dashboards with computer vision.
+
+* Integrated OpenCV for license plate detection and recognition
+* Built structured backend for vehicle registration and tracking
+* Designed for real-world administrative workflow automation
+* Optimized for regional license plate formats
+
+---
+
+### 📈 Algorithmic Trading System (MT5)
+
+Automated trading infrastructure using MetaTrader 5.
+
+* Developed rule-based trading bots with Python/MQL logic
+* Implemented risk management and trade protection strategies
+* Built backtesting workflows for strategy validation
+* Focused on system reliability and execution accuracy
+
+---
+
+### 🎓 AI-Powered Counselling Platform
+
+Secure communication platform for student support systems.
+
+* Built real-time chat system with secure architecture
+* Integrated AI-based diagnostic assistance tools
+* Designed anonymity and privacy-first user flows
+* Focused on scalability for institutional deployment
+
+---
+
+## 💡 What I Offer as a Developer
+
+* Strong backend-first mindset (API, data flow, architecture)
+* Ability to build complete systems from scratch
+* Experience with AI + automation integrations
+* Focus on clean, maintainable, scalable code
+* Fast learner able to adapt to existing production systems
+
+---
+
+## 🎯 Career Objective
+
+I am seeking an **internship / industrial attachment role** where I can:
+
+* Work on real production systems
+* Contribute to backend or full-stack engineering teams
+* Improve system design and software engineering practices
+* Gain exposure to enterprise-level development workflows
 
 ---
 
 ## 📫 Contact
 
-* 📩 **Email:** ebubechiezugwu@gmail.com
-* 📍 **Location:** Mutare, Zimbabwe
-* 🤝 *Open for collaboration, innovative development teams, and technical opportunities.*
+* 📧 Email: [ebubechiezugwu@gmail.com](mailto:ebubechiezugwu@gmail.com)
+* 📍 Location: Harare, Zimbabwe
+* 🔗 LinkedIn: (add your link)
+* 🌐 Portfolio: (add your link)
 
 ---
 
-## ⚡ Fun Fact
-
-I specialize in building systems that replace repetitive tasks—including algorithmic trading configurations and automated content pipelines. If it can be automated, I'm probably building a bot for it.
+> “I build systems that are not just functional, but structured to scale, maintain, and evolve.”
