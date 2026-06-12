@@ -1,129 +1,80 @@
-# 👋 Hi, I'm Ebubechi Emmanuel Ezugwu
+# 👋 Hi, I'm Ebubechi Emmanuel Ezugwu (Xiggyelias)
 
-**Software Engineer | Backend Developer | AI & Automation Engineer**
+## 🚀 Software Engineer | AI Builder | Full-Stack Developer
 
-I am a Computer Science student (BSc, Expected 2027) focused on building scalable backend systems, APIs, and AI-powered automation tools.
-
-I specialize in turning complex requirements into clean, modular, production-ready systems. I am currently seeking an **industrial attachment or internship opportunity** where I can contribute to real engineering teams, improve system reliability, and build production-grade software.
+I build intelligent systems that solve real-world problems using code, AI, and automation. My focus is on creating scalable platforms across education, algorithmic trading, communication tools, and creative AI.
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 What I Do
 
-**Backend & APIs**
-
-* PHP (Laravel)
-* Python (FastAPI)
-* Node.js
-* RESTful API Design
-* Authentication & System Security
-
-**Frontend**
-
-* JavaScript (ES6+)
-* React.js
-* Vue.js
-* Alpine.js
-* TailwindCSS
-
-**Databases & Infrastructure**
-
-* MySQL
-* SQLite
-* Linux (Ubuntu)
-* Git & GitHub
-* Deployment: Vercel, Netlify
-
-**AI & Automation**
-
-* OpenCV (Computer Vision)
-* API-based AI integrations
-* Workflow automation systems
-* Google AI Studio / LLM integrations
-
-**Engineering Practices**
-
-* System Design (modular architecture)
-* Debugging & optimization
-* Version control (Git workflows)
-* Clean code principles
+* 🧩 **Full-Stack Web Development:** (PHP, Laravel, React.js, JavaScript, MySQL)
+* 🤖 **AI Systems & Automation:** (Chatbots, smart assistants, workflow pipelines)
+* 📈 **Algorithmic Trading Bots:** (Python, MetaTrader 5, risk management automation)
+* 📷 **Computer Vision:** (License Plate Recognition systems)
+* 🎓 **Educational Platforms:** (AI-powered learning tools)
+* 📡 **Backend Architecture & API Development:** (FastAPI, RESTful design)
 
 ---
 
-## 🚀 Selected Projects
+## 🛠️ Tech Stack
 
-### 🎬 Automated Content Pipeline System
+**Languages:**
+PHP • Python • JavaScript • SQL • HTML • CSS
 
-A modular backend system for automating video content workflows.
+**Frameworks & Libraries:**
+Laravel • React.js • FastAPI • Vue.js • Alpine.js • Node.js
 
-* Built API-driven architecture for video processing pipelines
-* Automated content scheduling and upload workflows
-* Reduced manual processing through system-level automation
-* Designed for scalability and modular extension
+**AI / Data / Trading:**
+OpenCV • MT5 / MQL • Basic ML integrations • API-based AI systems • Google AI Studio
 
----
+**Databases:**
+MySQL • SQLite
 
-### 🚗 Vehicle Registration & License Plate Recognition System
-
-Full-stack system combining web dashboards with computer vision.
-
-* Integrated OpenCV for license plate detection and recognition
-* Built structured backend for vehicle registration and tracking
-* Designed for real-world administrative workflow automation
-* Optimized for regional license plate formats
+**DevOps & Tools:**
+Git • GitHub • REST APIs • Linux • Vercel • Netlify • Figma • Cursor
 
 ---
 
-### 📈 Algorithmic Trading System (MT5)
+## 💡 Featured Projects
 
-Automated trading infrastructure using MetaTrader 5.
+### 🚗 Vehicle Registration & LPR System
+A full-stack system for vehicle registration, tracking, and license plate recognition optimized for Zimbabwean plates.
 
-* Developed rule-based trading bots with Python/MQL logic
-* Implemented risk management and trade protection strategies
-* Built backtesting workflows for strategy validation
-* Focused on system reliability and execution accuracy
+### 🎬 YouTube Automation System
+A modular SaaS-quality content automation pipeline for clipping, scheduling, and managing video content workflows.
 
----
+### 📈 Algorithmic Trading Bots
+Automated trading scripts for MT5 focusing on strict risk management, backtesting logic, and profitability across assets like EUR/USD and Gold (XAUUSD).
 
-### 🎓 AI-Powered Counselling Platform
+### 🎓 AI Counselling Management System
+A secure university counselling platform with chat, AI diagnostics, anonymity features, and real-time communication.
 
-Secure communication platform for student support systems.
+### 🎵 AI Music Learning Platform
+An interactive system designed to teach music using AI-powered tools and gamified learning experiences.
 
-* Built real-time chat system with secure architecture
-* Integrated AI-based diagnostic assistance tools
-* Designed anonymity and privacy-first user flows
-* Focused on scalability for institutional deployment
-
----
-
-## 💡 What I Offer as a Developer
-
-* Strong backend-first mindset (API, data flow, architecture)
-* Ability to build complete systems from scratch
-* Experience with AI + automation integrations
-* Focus on clean, maintainable, scalable code
-* Fast learner able to adapt to existing production systems
+### 📱 WhatsApp Enrollment Chatbot
+Automated student enrollment system integrated with backend validation and document processing.
 
 ---
 
-## 🎯 Career Objective
+## 📊 GitHub Goals
 
-I am seeking an **internship / industrial attachment role** where I can:
-
-* Work on real production systems
-* Contribute to backend or full-stack engineering teams
-* Improve system design and software engineering practices
-* Gain exposure to enterprise-level development workflows
+* Build scalable AI-powered systems and robust architectures
+* Secure international fellowships and innovation grants
+* Contribute to impactful open-source projects
+* Launch production-ready SaaS platforms
 
 ---
 
 ## 📫 Contact
 
-* 📧 Email: [ebubechiezugwu@gmail.com](mailto:ebubechiezugwu@gmail.com)
-* 📍 Location: Harare, Zimbabwe
-* 🔗 LinkedIn: (add your link)
-* 🌐 Portfolio: (add your link)
+* **Email:** ebubechiezugwu@gmail.com
+* **Location:** Mutare, Zimbabwe
+* **Availability:** Open for collaboration, industrial attachments, and innovation opportunities.
 
 ---
 
-> “I build systems that are not just functional, but structured to scale, maintain, and evolve.”
+## ⚡ Fun Fact
+
+I enjoy turning complex ideas into working systems — especially when they combine AI, financial automation, and real-world impact.
